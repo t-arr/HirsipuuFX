@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="448.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <children>
+      <AnchorPane layoutY="324.0" prefHeight="123.0" prefWidth="400.0">
+         <children>
+            <Button fx:id="q" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="Q">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="m" layoutX="300.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="M">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="n" layoutX="260.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="N">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="b" layoutX="220.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="B">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="v" layoutX="180.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="V">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="c" layoutX="140.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="C">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button layoutX="100.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="X" fx:id="x">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="l" layoutX="340.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="L">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="k" layoutX="300.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="K">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="j" layoutX="260.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="J">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="h" layoutX="220.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="H">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="g" layoutX="180.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="G">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="f" layoutX="140.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="F">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="d" layoutX="100.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="D">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="s" layoutX="60.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="S">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="z" layoutX="60.0" layoutY="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="Z">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="a" layoutX="20.0" layoutY="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="A">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="p" layoutX="360.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="P">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="o" layoutX="320.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="O">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="i" layoutX="280.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="I">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="u" layoutX="240.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="U">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="y" layoutX="200.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="Y">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="t" layoutX="160.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="T">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="r" layoutX="120.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="R">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="e" layoutX="80.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="E">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+            <Button fx:id="w" layoutX="40.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="40.0" text="W">
+               <font>
+                  <Font size="17.0" />
+               </font></Button>
+         </children>
+      </AnchorPane>
+      <Text fx:id="arvattavaSana" layoutY="267.0" strokeType="OUTSIDE" strokeWidth="0.0" text="****" textAlignment="CENTER" wrappingWidth="400.0">
+         <font>
+            <Font name="Arial" size="25.0" />
+         </font>
+      </Text>
+      <Text fx:id="arvauksiaJaljella" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wrong guesses left: 6" textAlignment="CENTER" wrappingWidth="400.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Button fx:id="alustusNappi" layoutY="273.0" mnemonicParsing="false" onAction="#uusiPeli" text="New game">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <AnchorPane layoutX="65.0" layoutY="61.0" prefHeight="175.0" prefWidth="272.0">
+         <children>
+            <Text fx:id="hirsiBase" layoutX="97.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="-----" wrappingWidth="77.33333333333337">
+               <font>
+                  <Font size="34.0" />
+               </font>
+            </Text>
+            <Text fx:id="hirsiTolppa" layoutX="123.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="IIII" wrappingWidth="5.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="hirsiParru" layoutX="114.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" text="----" wrappingWidth="66.6666259765625">
+               <font>
+                  <Font size="34.0" />
+               </font>
+            </Text>
+            <Text fx:id="hirsiKoysi" layoutX="162.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I" wrappingWidth="23.47003173828125">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="hirsiPaa" layoutX="154.0" layoutY="77.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" O" wrappingWidth="15.4700927734375">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Text fx:id="hirsiVartalo" layoutX="154.0" layoutY="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="/I\      / \" wrappingWidth="40.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
